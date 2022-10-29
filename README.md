@@ -3,8 +3,6 @@
 </h1>
 
 ![DSMovieIndex](https://user-images.githubusercontent.com/101424190/198754462-1203b97b-d980-4173-affb-0aa8e4811ccd.jpeg)
-
-
 <br>
 
 ## 📝 Descrição 
